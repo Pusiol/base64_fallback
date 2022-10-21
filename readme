@@ -1,0 +1,6 @@
+Shell script to transfer files to a remote computer via open terminal session. Depends on awk.
+It is very slow, so just pass the zmodem binary and forget this script.
+
+Usage:
+  $ cat <base64_filename> | ./b64.sh <filename>
+
